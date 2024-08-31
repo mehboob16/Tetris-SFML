@@ -1,0 +1,10 @@
+bot 15000
+bot 13000
+bot 10000
+bot 8000
+bot 6000
+bot 5000
+bot 3000
+Mehboob 1780
+bot 1000
+bot 800
